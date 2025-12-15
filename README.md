@@ -1,4 +1,4 @@
-# List of IP to block on UDP
+# List of IP to block on UDP ( SIP Server ) 
 
 
 
